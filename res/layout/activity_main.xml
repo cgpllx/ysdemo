@@ -1,0 +1,351 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/xxx"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <android.support.v4.view.SuperScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animationCache="false"
+        android:scrollbars="none" >
+
+        <!-- <ScrollView -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" > -->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="AAA" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="BBB" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="DDD" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="EEE" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="FFF" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="HHH" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="III" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="AAA" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="BBB" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="DDD" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="EEE" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="FFF" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="HHH" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="III" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="AAA" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="BBB" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="DDD" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="EEE" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="FFF" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="HHH" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="III" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="AAA" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="BBB" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="DDD" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="EEE" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="FFF" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="HHH" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="III" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="GGG" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="KKK" />
+        </LinearLayout>
+        <!-- </ScrollView> -->
+    </android.support.v4.view.SuperScrollView>
+
+</RelativeLayout>
